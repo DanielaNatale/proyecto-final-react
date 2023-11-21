@@ -1,6 +1,10 @@
+import '../App.css'
+
 const Footer = props =>{
     return(
-        <h2>Este es el pie de la pagina</h2>
+        <footer>
+        <p>Diseñado por Daniela Natale - Septiembre 2023</p>
+        </footer>
     )
 }
 

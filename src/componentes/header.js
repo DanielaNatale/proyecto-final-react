@@ -1,6 +1,11 @@
-const Header = props =>{
-    return(
-        <h2>Esta es la cabecera</h2>
+const Header = props => {
+    return (
+        <header>
+            <div className="marca holder">
+                <img src="../img/logo.png?" />
+                <h1>Transportes X</h1>
+            </div>
+        </header>
     )
 }
 
