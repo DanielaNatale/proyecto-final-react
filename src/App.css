@@ -256,3 +256,39 @@ hr{
 }
 
 /*/////////FIN servicios/////////////*/
+
+
+/*/////////Inicio Contactos/////////////*/
+.mapa{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+
+}
+
+h3{
+  color: #2e64a1;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.contacto{
+  display: flex;
+  gap: 50px;
+}
+
+.contacto div{
+  width: 100%;
+}
+
+.datos p{
+  font-size: 18px;
+  color: black;
+}
+
+.datos ul li{
+  font-size: 15px;
+  color: black;
+}
+
+/*/////////FIN contactos/////////////*/

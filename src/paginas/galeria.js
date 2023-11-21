@@ -16,7 +16,6 @@ const Galeria = (props) => {
     return (
         <div className="galeria">
             <Slider {...settings}>
-            <img src="../img/galeria/img01.jpg" alt="imagen 01" />
             <img src="../img/galeria/img02.jpg" alt="imagen 02" />
             <img src="../img/galeria/img03.jpg" alt="imagen 03" />
             <img src="../img/galeria/img04.jpg" alt="imagen 04" />
